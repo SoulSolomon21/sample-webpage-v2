@@ -1,0 +1,185 @@
+body{
+    background-image: url('joshua-bartell-6vvIBTvL90A-unsplash.jpg');
+    color: blanchedalmond;
+    font-family: Montserrat;
+    
+}
+
+h1, h2{
+    font-family: lobster;
+}
+
+h3{
+    font-family: lobster;
+    text-align: center;
+}
+
+header{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+span{color: aqua;}
+
+.logo{
+    width: 50px;
+    border-radius: 10px;
+
+}
+
+.navbar{
+    background-color: rgb(248, 184, 147);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar a{
+    float: left;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    color: aqua;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+}
+
+
+.sample{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.welcome{
+    background-color: antiquewhite;
+color: rgb(17, 0, 255);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+
+}
+
+.about{
+    background-color: rgb(41, 39, 71);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+
+.brief{
+    background-color: antiquewhite;
+color: rgb(17, 0, 255);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+
+}
+
+.services{
+    background-color: rgb(41, 39, 71);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+
+.specialities{
+    background-color: antiquewhite;
+    color: rgb(17, 0, 255);
+    border-radius: 15px;
+
+
+}
+
+.choco{
+    background-color: rgb(41, 39, 71);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.cakes{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* .cakes{
+    background-color: rgb(41, 39, 71);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    align-items: center;
+}
+
+.one{
+    grid-row-start: 1;
+    grid-row-end: 2;
+    align-self: center;
+    }
+    
+.two{
+        grid-row-start: 2;
+        grid-row-end: 3; 
+        align-self: center;
+    
+    }
+    
+.three{
+        grid-row-start: 3;
+        grid-row-end: 4;
+        align-self: center;
+    
+    } */
+
+.platters{
+    background-color: antiquewhite;
+    color: rgb(17, 0, 255);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+
+}
+
+.breakfast{
+    background-color: rgb(41, 39, 71);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+
+}
+
+.contact{
+    background-color: antiquewhite;
+    color: rgb(17, 0, 255);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+
+}
+
+ 
+
+
+
